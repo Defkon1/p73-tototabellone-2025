@@ -1,6 +1,10 @@
 # P73 Tototabellone NBA 2025
 
-Source: [ESPN NBA 2024-25 Playoff bracket](https://www.espn.com/nba/playoff-bracket)
+**Rules:** 3 points for correct prediction, 1 for correct winner, 0 for wrong prediction
+
+**Prize:** Everlasting glory + 1 fluo outfit from Bizio's fashion collection Spring 2024-25
+
+**Source:** [ESPN NBA 2024-25 Playoff bracket](https://www.espn.com/nba/playoff-bracket)
 
 ## Conference semifinals
 

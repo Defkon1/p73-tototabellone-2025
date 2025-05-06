@@ -1,4 +1,4 @@
-# P73 Tototabellone NBA 2025
+# P73 Tototabellone NBA 2024-25
 
 **Rules:** 3 points for correct prediction, 1 for correct winner, 0 for wrong prediction
 

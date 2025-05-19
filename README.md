@@ -37,7 +37,7 @@
 | Simo      |   3-4   |   4-2   |       |
 | Ale       |   3-4   |   4-3   |       |
 | Jimmy     |   4-3   |   4-2   |       |
-| Bizio     |         |         |       |
+| Bizio     |   4-3   |   4-2   |       |
 | Poggia    |         |         |       |
 | Lollovich |         |         |       |
 | Sam       |         |         |       |

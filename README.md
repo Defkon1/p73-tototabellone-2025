@@ -29,19 +29,20 @@
 
 | Giocatore | NYK-IND | OKC-MIN | Punti |
 |-----------|:-------:|:-------:|------:|
-| Pelo      |         |         |       |
-| Cato      |         |         |       |
-| Mario     |         |         |       |
-| Ciachi    |         |         |       |
+| Pelo      |   4-1   |   4-1   |       |
+| Cato      |   3-4   |   4-2   |       |
+| Mario     |   3-4   |   4-3   |       |
+| Ciachi    |   2-4   |   4-3   |       |
 | Mirco     |         |         |       |
-| Simo      |         |         |       |
-| Ale       |         |         |       |
-| Jimmy     |         |         |       |
+| Simo      |   3-4   |   4-2   |       |
+| Ale       |   3-4   |   4-3   |       |
+| Jimmy     |   4-3   |   4-2   |       |
 | Bizio     |         |         |       |
 | Poggia    |         |         |       |
 | Lollovich |         |         |       |
 | Sam       |         |         |       |
-| Peppe     |         |         |       |
+| Peppe     |   4-2   |   4-2   |       |
+| Sander    |   4-3   |   3-4   |       |
 | **Risultati** |      |      |       |
 
 ## Classifica player
@@ -61,3 +62,4 @@
 | Pelo      |    1   |    0  |    0   |    1   |
 | Mirco     |    1   |    0  |    0   |    1   |
 | Lollovich |    1   |    0  |    0   |    1   |
+| Sander    |    0   |    0  |    0   |    0   |

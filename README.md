@@ -38,10 +38,10 @@
 | Ale       |   3-4   |   4-3   |       |
 | Jimmy     |   4-3   |   4-2   |       |
 | Bizio     |   4-3   |   4-2   |       |
-| Poggia    |         |         |       |
+| Poggia    |   4-3   |   4-1   |       |
 | Lollovich |         |         |       |
 | Sam       |         |         |       |
-| Peppe     |   4-2   |   4-2   |       |
+| Peppe     |   4-2   |   4-3   |       |
 | Sander    |   4-3   |   3-4   |       |
 | **Risultati** |      |      |       |
 

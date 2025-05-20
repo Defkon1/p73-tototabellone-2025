@@ -39,8 +39,8 @@
 | Jimmy     |   4-3   |   4-2   |       |
 | Bizio     |   4-3   |   4-2   |       |
 | Poggia    |   4-3   |   4-1   |       |
-| Lollovich |         |         |       |
-| Sam       |         |         |       |
+| Lollovich |   3-4   |   3-4   |       |
+| Sam       |   4-2   |   4-3   |       |
 | Peppe     |   4-2   |   4-3   |       |
 | Sander    |   4-3   |   3-4   |       |
 | **Risultati** |      |      |       |

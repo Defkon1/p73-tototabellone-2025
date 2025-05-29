@@ -29,37 +29,37 @@
 
 | Giocatore | NYK-IND | OKC-MIN | Punti |
 |-----------|:-------:|:-------:|------:|
-| Pelo      |   4-1   |   4-1   |       |
-| Cato      |   3-4   |   4-2   |       |
-| Mario     |   3-4   |   4-3   |       |
-| Ciachi    |   2-4   |   4-3   |       |
-| Mirco     |   4-2   |   4-2   |       |
-| Simo      |   3-4   |   4-2   |       |
-| Ale       |   3-4   |   4-3   |       |
-| Jimmy     |   4-3   |   4-2   |       |
-| Bizio     |   4-3   |   4-2   |       |
-| Poggia    |   4-3   |   4-1   |       |
-| Lollovich |   3-4   |   3-4   |       |
-| Sam       |   4-2   |   4-3   |       |
-| Peppe     |   4-2   |   4-3   |       |
-| Sander    |   4-3   |   3-4   |       |
-| **Risultati** |      |      |       |
+| Pelo      |   4-1   |   4-1   |   3   |
+| Cato      |   3-4   |   4-2   |   1   |
+| Mario     |   3-4   |   4-3   |   1   |
+| Ciachi    |   2-4   |   4-3   |   1   |
+| Mirco     |   4-2   |   4-2   |   1   |
+| Simo      |   3-4   |   4-2   |   1   |
+| Ale       |   3-4   |   4-3   |   1   |
+| Jimmy     |   4-3   |   4-2   |   1   |
+| Bizio     |   4-3   |   4-2   |   1   |
+| Poggia    |   4-3   |   4-1   |   3   |
+| Lollovich |   3-4   |   3-4   |   0   |
+| Sam       |   4-2   |   4-3   |   1   |
+| Peppe     |   4-2   |   4-3   |   1   |
+| Sander    |   4-3   |   3-4   |   0   |
+| **Risultati** |  1-3    |  4-1    |       |
 
 ## Classifica player
 
 | Giocatore | C Semi | C Fin | Finals | Totale |
 |-----------|-------:|------:|-------:|-------:|
-| Ale       |    6   |    0  |    0   |    6   |
-| Mario     |    5   |    0  |    0   |    5   |
-| Poggia    |    4   |    0  |    0   |    4   |
-| Sam       |    4   |    0  |    0   |    4   |
-| Peppe     |    4   |    0  |    0   |    4   |
-| Cato      |    3   |    0  |    0   |    3   |
-| Simo      |    3   |    0  |    0   |    3   |
-| Jimmy     |    2   |    0  |    0   |    2   |
-| Bizio     |    2   |    0  |    0   |    2   |
-| Ciachi    |    2   |    0  |    0   |    2   |
-| Pelo      |    1   |    0  |    0   |    1   |
-| Mirco     |    1   |    0  |    0   |    1   |
+| Ale       |    6   |    1  |    0   |    7   |
+| Poggia    |    4   |    3  |    0   |    7   |
+| Mario     |    5   |    1  |    0   |    6   |
+| Sam       |    4   |    1  |    0   |    5   |
+| Peppe     |    4   |    1  |    0   |    5   |
+| Cato      |    3   |    1  |    0   |    4   |
+| Simo      |    3   |    1  |    0   |    4   |
+| Pelo      |    1   |    3  |    0   |    4   |
+| Bizio     |    2   |    1  |    0   |    3   |
+| Ciachi    |    2   |    1  |    0   |    3   |
+| Jimmy     |    1   |    1  |    0   |    2   |
+| Mirco     |    1   |    1  |    0   |    2   |
 | Lollovich |    1   |    0  |    0   |    1   |
 | Sander    |    0   |    0  |    0   |    0   |

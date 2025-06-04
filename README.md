@@ -53,7 +53,7 @@
 | Cato      |  4-3    |   0   |
 | Mario     |  2-4    |   0   |
 | Ciachi    |  2-4    |   0   |
-| Mirco     |      |   0   |
+| Mirco     |  4-2    |   0   |
 | Simo      |  4-1    |   0   |
 | Ale       |      |   0   |
 | Jimmy     |  4-1    |   0   |
@@ -62,7 +62,7 @@
 | Lollovich |  3-4    |   0   |
 | Sam       |      |   0   |
 | Peppe     |      |   0   |
-| Sander    |      |   0   |
+| Sander    |  4-2    |   0   |
 | **Risultati** |      |      |
 
 ## Classifica player

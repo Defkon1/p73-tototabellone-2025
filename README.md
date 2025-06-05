@@ -58,7 +58,7 @@
 | Ale       |  4-1    |   0   |
 | Jimmy     |  4-1    |   0   |
 | Bizio     |  4-2    |   0   |
-| Poggia    |  4-1    |   0   |
+| Poggia    |  4-2    |   0   |
 | Lollovich |  3-4    |   0   |
 | Sam       |  4-1    |   0   |
 | Peppe     |  4-2    |   0   |

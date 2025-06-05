@@ -52,7 +52,7 @@
 | Pelo      |  4-0    |   0   |
 | Cato      |  4-3    |   0   |
 | Mario     |  2-4    |   0   |
-| Ciachi    |  2-4    |   0   |
+| Ciachi    |  3-4    |   0   |
 | Mirco     |  4-2    |   0   |
 | Simo      |  4-1    |   0   |
 | Ale       |  4-1    |   0   |
